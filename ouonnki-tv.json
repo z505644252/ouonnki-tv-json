@@ -416,7 +416,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:51:55.569Z"
   },
   {
@@ -426,7 +426,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:51:02.698Z"
   },
   {
@@ -436,7 +436,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:56.236Z"
   },
   {
@@ -446,7 +446,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:48.892Z"
   },
   {
@@ -456,7 +456,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:42.075Z"
   },
   {
@@ -466,7 +466,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:34.809Z"
   },
   {
@@ -476,7 +476,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:23.172Z"
   },
   {
@@ -486,7 +486,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:15.499Z"
   },
   {
@@ -496,7 +496,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:07.816Z"
   },
   {
@@ -506,7 +506,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:50:00.030Z"
   },
   {
@@ -516,7 +516,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:49:52.803Z"
   },
   {
@@ -526,7 +526,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:49:44.871Z"
   },
   {
@@ -536,7 +536,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:49:35.400Z"
   },
   {
@@ -546,7 +546,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:49:18.880Z"
   },
   {
@@ -556,7 +556,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:49:08.907Z"
   },
   {
@@ -576,7 +576,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:48:03.366Z"
   },
   {
@@ -586,7 +586,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:47:55.763Z"
   },
   {
@@ -596,7 +596,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:47:41.482Z"
   },
   {
@@ -616,7 +616,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:47:19.732Z"
   },
   {
@@ -626,7 +626,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:47:10.767Z"
   },
   {
@@ -636,7 +636,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:46:56.769Z"
   },
   {
@@ -646,7 +646,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:46:18.292Z"
   },
   {
@@ -656,7 +656,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:28:37.348Z"
   },
   {
@@ -666,7 +666,7 @@
     "detailUrl": "",
     "timeout": 3000,
     "retry": 3,
-    "isEnabled": true,
+    "isEnabled": false,
     "updatedAt": "2026-01-02T21:27:40.285Z"
   }
 ]
